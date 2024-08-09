@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer and problem solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaseen-ejaz&label=Profile%20views&color=0e75b6&style=flat" alt="yaseen-ejaz" /> </p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaseen-ejaz&show_icons=true&locale=en&layout=compact" alt="yaseen-ejaz" /></p>
 - 📫 How to reach me **yaseenejazahmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
