@@ -6,7 +6,7 @@
 <a href="https://github.com/Yaseen-Ejaz">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yaseen-Ejaz&hide_progress=true&bg_color=151515&title_color=fff&text_color=9f9f9f&layout=compact&langs_count=8&card_width=320" alt="munimdev's GitHub most-used languages" />
 </a> </p>
-- 📫 How to reach me **yaseenejazahmed@gmail.com**
+- 📫 How to reach me <b>yaseenejazahmed@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
