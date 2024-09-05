@@ -2,9 +2,10 @@
 <h3 align="center">A passionate backend developer and problem solver</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yaseen-ejaz&label=Profile%20views&color=0e75b6&style=flat" alt="yaseen-ejaz" /> </p>
+<p align="center">
 <a href="https://github.com/Yaseen-Ejaz">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yaseen-Ejaz&hide_progress=true&bg_color=151515&title_color=fff&text_color=9f9f9f&layout=compact&langs_count=8&card_width=320" alt="munimdev's GitHub most-used languages" />
-</a>
+</a> </p>
 - 📫 How to reach me **yaseenejazahmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
