@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaseen</h1>
-<h3 align="center">A passionate backend developer and problem solver</h3>
+<h3 align="center">A backend developer and problem solver</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yaseen-ejaz&label=Profile%20views&color=0e75b6&style=flat" alt="yaseen-ejaz" /> </p>
 <p align="center">
