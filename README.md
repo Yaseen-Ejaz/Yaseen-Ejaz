@@ -9,8 +9,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yaseen-Ejaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Yaseen-Ejaz&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yaseen-Ejaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Yaseen-Ejaz&locale=en&mode=weekly&theme=dark&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yaseen-Ejaz&theme=github-dark&title_color=FFFFFF&line=FFFFFF&area=true&hide_border=true&hide_title=false&point=000000&area_color=FFFFFF&color=FFFFFF&custom_title=Contribution%20Graph" height="150" alt="activity-graph graph"  />
 </div>
 
