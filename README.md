@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yaseen-Ejaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Yaseen-Ejaz&locale=en&mode=weekly&theme=dark&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yaseen-Ejaz&theme=github-dark&title_color=FFFFFF&line=FFFFFF&area=true&hide_border=true&hide_title=false&point=000000&area_color=FFFFFF&color=FFFFFF&custom_title=Contribution%20Graph" height="225" alt="activity-graph graph"  />
-  <a src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2c1czV3OGhrOW8wajc4NnF0ZHgwODV4OXphc2J3azk1dnJ4YmthdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/joYf3Ba2phD15ch9Nt/giphy.gif" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2c1czV3OGhrOW8wajc4NnF0ZHgwODV4OXphc2J3azk1dnJ4YmthdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/joYf3Ba2phD15ch9Nt/giphy.gif" />
 </div>
 
 ###
