@@ -94,13 +94,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Yaseen-Ejaz/Yaseen-Ejaz/output/pacman-contribution-graph.svg"
-  />
-</div>
-
 
 <div align="center">
   <picture>
